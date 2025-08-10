@@ -35,14 +35,7 @@ Este proyecto es un tablero interactivo desarrollado con [Streamlit](https://str
    streamlit run dashboard.py
    ```
 
-## Despliegue en Streamlit Community Cloud
-
-Sube este repositorio y sigue los pasos en [Streamlit Cloud](https://streamlit.io/cloud) para publicar tu tablero y compartir el enlace con el mundo.
-
-## Captura de pantalla
-
-![Dashboard ejemplo](link-a-tu-captura)
-
 ## Autor
 
 Juan Lamboglia con ayuda de GitHub Copilot
+
